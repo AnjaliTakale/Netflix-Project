@@ -6,8 +6,8 @@ The Netflix Project focuses on analyzing Netflix data to uncover patterns in mov
 Dataset:
 The dataset used in this project consists of Netflix movie data, which includes details such as:
 
-Title: Name of the movie.
-Genre: The category or type of movie (e.g., Drama, Comedy, Action).
+Title: Name of the movie.  
+Genre: The category or type of movie (e.g., Drama, Comedy, Action).            
 Director: The name of the director(s).
 Cast: List of actors in the movie.
 Release Year: The year the movie was released.
