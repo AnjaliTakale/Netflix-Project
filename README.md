@@ -1,4 +1,4 @@
-# Netflix-Project
+# Netflix Power BI Project
 
 Project Overview:
 The Netflix Project focuses on analyzing Netflix data to uncover patterns in movie preferences, user behaviors, and ratings. By applying data analysis and visualization techniques, this project provides insights into the types of movies, genres, and trends that have been popular among Netflix users. The project aims to demonstrate how data-driven approaches can be applied to streaming platforms like Netflix to derive meaningful insights.
